@@ -1,4 +1,7 @@
 # Sorting-Visualizer
-This project is built using HTML, CSS, and JS.
-This project sorting visualizer is a very simple UI and it allows the users to select the sort algorithm, select the array size, and speed of the visualization.
-Using the inputs it displays pictorial visualization of the different sorting algorithms.
+This project is a very simple UI and it allows the users to visualizer different sorting algorithms. I have given an option to select the array size, and speed of the visualization and the sorting algorithm. Each element of the array is displayed as a bar. The operations are colour coded such that:
+
+Blue - Element is in unsorted position
+Yellow - Selected
+Red - Swap the bars
+Green - Element is in sorted position
